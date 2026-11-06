@@ -1,0 +1,27 @@
+====================================================================
+
+Author: Mohamed BEN ALI
+
+Major: Artificial Intelligence
+
+Specialization: Data Analyst
+
+Group: 201
+
+
+====================================================================
+
+               INFORMATIONS ET MÉTADONNÉES DU PROJET
+
+====================================================================
+
+
+NOM DU PROJET          : analyse des données des applications Android
+
+DOMAINE                : Data Science / Data Analyst 
+
+DATE DE CRÉATION       : Octobre(10) 30/ 2026 
+
+DATE DE PUBLICATION    : November(11) 4-5/ 2026 23:55
+
+====================================================================
