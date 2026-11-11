@@ -31,13 +31,12 @@ N'hésitez pas à me contacter ou à consulter mes travaux sur mes différents p
 ```text
 .
 ├── data/
-│   └── raw_apps_data.csv       # Jeu de données d'origine
+│   └── apps (1).csv       # Jeu de données d'origine
 ├── notebooks/
-│   ├── 01_indexation_pandas.ipynb # Exemples sur iloc, loc et shape
-│   └── 02_analyse_applications.ipynb # Filtrage et statistiques (ex: top rated apps)
+│   └── answerup.ipynb    # r=the answer of project
 ├── scripts/
 │   └── main.py                 # Script Python d'exécution principale
 ├── .gitignore                  # Fichiers et dossiers à ignorer par Git
 ├── README.md                   # Documentation du projet
-└── requirements.txt            # Dépendances Python (pandas, numpy, etc.)
+└── DATE TP_analyse_apps.txt         # Dépendances Python (pandas, numpy, etc.)
 ```
