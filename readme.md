@@ -25,7 +25,6 @@ N'hésitez pas à me contacter ou à consulter mes travaux sur mes différents p
 - [ ] **Étape 6 :** Visualisation des données avec Matplotlib / Seaborn.
 
 ---
-Il y a un changement dans le code 
 ##  Structure du Projet
 
 ```text
@@ -40,3 +39,5 @@ Il y a un changement dans le code
 ├── README.md                   # Documentation du projet
 └── DATE TP_analyse_apps.txt         # Dépendances Python (pandas, numpy, etc.)
 ```
+
+* There is a change in the code. There is a change in the original code.
