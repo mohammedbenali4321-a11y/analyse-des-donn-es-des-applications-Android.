@@ -25,7 +25,7 @@ N'hésitez pas à me contacter ou à consulter mes travaux sur mes différents p
 - [ ] **Étape 6 :** Visualisation des données avec Matplotlib / Seaborn.
 
 ---
-
+Il y a un changement dans le code 
 ##  Structure du Projet
 
 ```text
