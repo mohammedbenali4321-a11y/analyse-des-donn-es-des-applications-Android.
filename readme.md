@@ -8,10 +8,10 @@ Ce projet contient des exemples pratiques d'exploration, de nettoyage et d'analy
 
 N'hésitez pas à me contacter ou à consulter mes travaux sur mes différents profils :
 
-* 🐙 **GitHub   :** [Mon Profil GitHub](https://github.com/mohammedbenali4321-a11y)
-* 🏆 **Kaggle   :** [Mon Profil Kaggle](https://www.kaggle.com/mbaitri)
-* 💼 **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/mohamed-ben-ali-m/)
-* 🏆 **Roadmap  :** [Mon Profil Kaggle](https://roadmap.sh/u/benalimohamed)
+*  **GitHub   :** [Mon Profil GitHub](https://github.com/mohammedbenali4321-a11y)
+*  **Kaggle   :** [Mon Profil Kaggle](https://www.kaggle.com/mbaitri)
+*  **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/mohamed-ben-ali-m/)
+*  **Roadmap  :** [Mon Profil Kaggle](https://roadmap.sh/u/benalimohamed)
 
 ---
 
